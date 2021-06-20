@@ -1,0 +1,7 @@
+﻿<item>l'heure de se coucher<tag>data.HeureCoucher="";data.time="checktime"</tag></item>
+
+<item>quelle heure je dois me coucher<tag>data.HeureCoucher="";data.time="gettimeforsleep"</tag></item>
+
+<item>mon heure de coucher pour<tag>data.HeureCoucher="mon heure de coucher pour";data.time="settime"</tag></item>
+<item>mon heure de coucher à<tag>data.HeureCoucher="mon heure de coucher à";data.time="settime"</tag></item>
+ 
